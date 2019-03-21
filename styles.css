@@ -5,11 +5,14 @@ html {
 }
 
 main {
+	height: 100vh;
+}
+
+section {
 	display: grid;
 	grid-template-columns: repeat(4, auto);
 	grid-gap: 2px;
 	margin: 1em;
-	height: 90vh;
 	background: #eee;
 }
 
