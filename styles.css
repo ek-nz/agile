@@ -12,13 +12,17 @@ section {
 	display: grid;
 	grid-template-columns: repeat(4, auto);
 	grid-gap: 2px;
-	margin: 1em;
+	margin: 1rem;
 	background: #eee;
 }
 
 article {
 	padding: 2vmin;
 	background: #fff;
+}
+
+h1 {
+	margin-left: 1rem;	
 }
 
 h2 {
