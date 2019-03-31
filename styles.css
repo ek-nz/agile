@@ -22,7 +22,8 @@ article {
 }
 
 h1 {
-	margin-left: 2rem;	
+	margin-left: 1rem;
+	padding-left: 2vmin;
 }
 
 h2 {
